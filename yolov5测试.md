@@ -6,7 +6,7 @@
 
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
 
-​      ··································          https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+​      ··································          https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
 
 conda config --set show_channel_urls yes
 
@@ -36,7 +36,7 @@ git clone //（仓库地址）
 
 （在pytorch环境中）安装所需库 在yolov5 目录中
 
-`pip install requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple`
+`pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple`
 
 下载预训练权重文件放在weights文件夹里
 
