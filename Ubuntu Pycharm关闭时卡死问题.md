@@ -1,4 +1,4 @@
-# Ubuntu Pycharm
+# Ubuntu Pycharm关闭时卡死问题
 
 ## （一）使用kill杀死进程
 

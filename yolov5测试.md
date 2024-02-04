@@ -45,3 +45,7 @@ git clone //（仓库地址）
 离线：`python detect.py --source ./inferenec/images/ --weights weights/yolov5s.pt --conf 0.4`
 
 摄像头：`python detect.py --source 0 --conf 0.4`
+
+
+
+来源：https://www.bilibili.com/video/BV1rt4y1W7Dc/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click
