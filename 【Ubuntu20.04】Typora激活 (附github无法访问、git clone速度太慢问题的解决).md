@@ -1,4 +1,4 @@
-# 【Ubuntu20.04】Typora激活 (附github无法访问、git clone速度太慢问题的解决)
+# 【Ubuntu20.04】Typora激活 (附github无法访问、git clone速度太慢问题的解决)(请先阅读补充文档！)
 
 ## 绪（一）、前因 
 
